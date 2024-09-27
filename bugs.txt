@@ -1,1 +1,1 @@
-bug i am facing is after one round of swiping, the next element
+bug i am facing is after one round of swiping, the next element onwards starts to read the user swipe from not just the last card, but all cards. I need fixing for this.
