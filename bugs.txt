@@ -1,0 +1,1 @@
+bug i am facing is after one round of swiping, the next element

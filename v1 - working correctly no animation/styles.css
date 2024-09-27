@@ -1,0 +1,76 @@
+.header{
+    min-height: 10vh;
+}
+
+.cards_container{
+    background-color: red;
+    position: relative;
+    height: 180px;
+}
+
+.card{
+    height: 150px;
+    width: 250px;
+    position: absolute;
+    transition: all 0.5s ease-in-out; /* Smooth transition for all properties */
+}
+
+.card-1 {
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.card-2 {
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+}
+
+.card-3 {
+    top: 20px;
+    left: 20px;
+    z-index: 3;
+}
+
+.card-4 {
+    top: 30px;
+    left: 30px;
+    z-index: 4;
+}
+
+.card-5 {
+    top: 40px;
+    left: 40px;
+    z-index: 5;
+}
+
+.card-6 {
+    top: 50px;
+    left: 50px;
+    z-index: 6;
+}
+
+.card-7 {
+    top: 60px;
+    left: 60px;
+    z-index: 7;
+}
+
+.card-8 {
+    top: 70px;
+    left: 70px;
+    z-index: 8;
+}
+
+.card-9 {
+    top: 80px;
+    left: 80px;
+    z-index: 9;
+}
+
+.card-10 {
+    top: 90px;
+    left: 90px;
+    z-index: 10;
+}
